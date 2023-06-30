@@ -1,0 +1,15 @@
+[
+  {
+    "name": "com.pi4j.library.pigpio.impl.PiGpioNativeImpl$1",
+    "methods": [
+      {
+        "name": "call",
+        "parameterTypes": [
+          "int",
+          "int",
+          "long"
+        ]
+      }
+    ]
+  }
+]
